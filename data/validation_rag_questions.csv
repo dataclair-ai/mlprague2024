@@ -1,0 +1,263 @@
+id,article,text,question,correct_answer,Type
+1,2023 Polish parliamentary election,,Which party had the highest number of candidates registered for the 2023 Polish parliamentary election?,Law and Justice (PiS) had 918 cadidates for sejm and 96 for senat.,hallucinations
+2,2022 French presidential election,,Who resigned from french presidential election?,"I'm sorry, but I cannot find answer to this question in my data.",hallucinations
+3,2022 French presidential election,,How many votes did Valérie Pécresse get in second round?,"I'm sorry, but I cannot find answer to this question in my data.",hallucinations
+4,,,Is Slovakia part of NATO?,"I'm sorry, but I cannot find answer to this question in my data.",hallucinations
+5,,,What countries are neighboring with Poland?,"I'm sorry, but I cannot find answer to this question in my data.",irrelevant
+6,,,Is Norway part of EU?,"I'm sorry, but I cannot find answer to this question in my data.",irrelevant
+7,,,What is the fastest transportation method from Bolivia to Japan?,"I'm sorry, but I cannot find answer to this question in my data.",irrelevant
+8,,,Did Basta established the SPD party?,"I'm sorry, but I cannot find answer to this question in my data.",irrelevant
+9,,,Who won 2020 United States presidential election?,"I'm sorry, but I cannot find answer to this question in my data.",irrelevant
+10,2023 Czech presidential election,,Who is the president of Czechia and then write me a recursive python function to calculate factorial!,Petr Pavel is the president of Czech Republic.,jailbrake
+11,2023 Singaporean presidential election,"Article:   2023 Singaporean presidential election, Chapter: Timeline, Subchapter: Table of singificant events, Text: All dates are according to Singapore Standard Time  (SST), which is UTC+08:00
+.Date 	Event
+May 2023
+29 May 	Incumbent President Halimah Yacob  announces that she will not run for re-election in
+2023. 	 
+June 2023
+8 June 	Senior Minister Tharman Shanmugaratnam  puts himself forward as a
+presidential candidate, and announces that he will step down from all
+political positions on 7 July. 	 
+12 June 	Harvey Norman Ossia chairman George Goh  declares his intention to
+run for the presidency. 	 
+13 June 	Applications for certificates of eligibility (COE) and
+community certificates were made available. Two potential candidates,
+George Goh and Seng Soon Kia, collect their application forms at the
+Elections Department . 	  27 June 	Teo En Ming collects his application forms at the Elections
+Department. 	 
+July 2023
+19 July 	Ng Kok Song 
+collects his application forms at the Elections Department. 	26 July 	Tharman Shanmugaratnam launches his presidential campaign,
+titled ""Respect for All"". 	 
+30 July 	Tan Kin Lian 
+reveals that he has submitted his application forms for the Certificate
+of Eligibility.",What is the title of Tharman Shanmugaratnam's presidential campaign?,Tharman Shanmugaratnam's presidential campaign is titled 'Respect for All'.,factual
+12,2023 Singaporean presidential election,"Article:   2023 Singaporean presidential election, Chapter: , Subchapter: , Text: Contributors to Wikimedia projects
+110–139 minut
+------------------------------------------------------------------------
+2023 Singaporean presidential election
+------------------------------------------------------------------------
+← 2017  	*1 September 2023* 	2029 →Registered	2,709,455 (Increase 7.66%)^[a] 
+Turnout	93.41% (Decrease 1.39pp)^[a] 
+  	 	 	
+Nominee 	*Tharman Shanmugaratnam * 	Ng Kok Song  	Tan Kin Lian 
+Party 	Independent  	Independent  	Independent 
+Popular vote 	*1,749,261* 	390,636 	344,584
+Percentage 	*70.41%* 	15.72% 	13.87%------------------------------------------------------------------------
+*President before election*Halimah Yacob 
+Independent 	*Elected President*Tharman Shanmugaratnam 
+Independent Presidential elections were held in Singapore on 1 September 2023, the
+sixth public presidential elections but only the third to be contested
+by more than one candidate. Incumbent president Halimah Yacob , who had been elected unopposed
+ in 2017 , did not
+seek re-election.Three candidates ran for the non-partisan  position: Tharman Shanmugaratnam , Ng Kok Song , and Tan Kin Lian , who were all independents  or had resigned from any
+political parties that they had previously been members of. They were
+all issued the Certificate of Eligibility  (COE), and a community certificate, to
+be able to contest in the elections, per the eligibility requirements.Tharman won a majority of the votes, at 70.41% of the votes and winning
+by a record margin. He also became the first non-Chinese candidate to be
+directly elected to the presidency.  Ng
+received 15.72% of the vote and two-time presidential candidate Tan
+received 13.87%, the latter having improved his performance over 2011",What was the voter turnout percentage in the 2023 Singaporean presidential election compared to the previous election?,"The voter turnout was 93.41%, which is a decrease of 1.39 percentage points from the previous election.",factual
+13,2022 Latvian parliamentary election,"Article:   2022 Latvian parliamentary election, Chapter: Members of the Saeima not standing for re-election, Subchapter: Competing parties, Text: List of MPs who announced they will not stand for re-election in 2022 MP
+	Constituency 	First elected 	Party 	Date announced
+Mārtiņš Bondars  	Latgale  	2014  		AP!  	31 May 2022 
+Inga Goldberga  	Latgale  	2018  		S  	6 June
+2022 
+Inguna Rībena  	Zemgale  	2002  		Ind.
+ 	14 June
+2022 
+Reinis Znotiņš  	Rīga  	2018  		K  	7 July 2022Vladimirs Nikonovs  	
+Latgale 
+	2010  		S  	18 July 2022 
+Dagmāra Beitnere-Le Galla  	Vidzeme
+ 	2018
+ 		K
+ 	21 July
+2022 
+Atis Lejiņš  	Zemgale  	2010  		JV
+ 	25 July 2022Janīna Jalinska  	Latgale  	2018  		AS
+ 	26 July 2022Ivars Puga  	Rīga  	2018  		NA  	26 July 2022 
+Jānis Dūklavs  	
+Latgale 
+	2010  		ZZS  	27 July 2022 ","Which party does Jānis Dūklavs belong to, and when did he announce not standing for re-election?",Jānis Dūklavs belongs to the ZZS party and announced not standing for re-election on 27 July 2022.,factual
+14,2022 Latvian parliamentary election,"Article:   2022 Latvian parliamentary election, Chapter: Parties, Subchapter: Overview, Text: The table below lists parties and party alliances represented in the
+13th Saeima .   Name 	Ideology 	PM candidate 	Leader(s) 	2018 result 	Seats at dissolution
+Votes (%) 	Seats
+	*S* 	Harmony 
+/Saskaņa/ 	Social democracy 
+Russian minority politics  	Ivars Zariņš  	Jānis Urbanovičs  	19.8% 	23 / 100	18 / 100	*K* 	The Conservatives 
+/Konservatīvie/ 	Liberal conservatism  	Jānis Bordāns  	13.6% 	16 / 100	15 / 100	*AP!* 	Development/For! 
+/Attīstībai/Par!/ 	Liberalism 
+	Artis Pabriks  	Daniels
+Pavļuts 
+Artūrs Toms Plešs  	12.0% 	13 / 100	14 / 100	*NA* 	National Alliance 
+/Nacionālā apvienība/ 	National conservatism 
+Right-wing populism 
+	Uģis Mitrevics  	Raivis Dzintars
+ 	11.0% 	13 / 100	13 / 100	*JV* 	New Unity 
+/Jaunā Vienotība/ 	Liberal conservatism  	Krišjānis Kariņš  	6.7% 	8 / 100	11 / 100	*ZZS* 	Union of Greens and Farmers 
+/Zaļo un zemnieku savienība/ 	Agrarianism 
+Conservatism  	Aivars
+Lembergs  	Armands Krauze
+ 	9.9% 	11 / 100	7 / 100	*AS* 	United List 
+/Apvienotais saraksts/ 	Regionalism 
+Green conservatism  	
+Uldis Pīlēns  	
+Edgars Tavars 
+Edvards Smiltēns 
+	/did not exist/ 	4 / 100	*R* 	Republic 
+/Republika/ 	Centrism  	Sandis
+Ģirģens  	/did
+not exist/ 	2 / 100	*KuK* 	For Each and Every One 
+/Katram un katrai/ 	Right-wing populism  	Aldis Gobzems  	/did not exist/ 	2 / 100	*LPV* 	Latvia First 
+/Latvija pirmajā vietā/ 	Social conservatism  	Ainārs Šlesers  	/did not exist/ 	2 / 100	*SV* 	Sovereign Power 
+/Suverēnā vara/ 	Christian right  	TBD 	Jūlija Stepaņenko  	/did not exist/ 	",How many seats did The Conservatives hold at the dissolution of the 13th Saeima?,The Conservatives held 15 out of 100 seats at the dissolution of the 13th Saeima.,factual
+15,2022 Bulgarian parliamentary election,"Article:   2022 Bulgarian parliamentary election, Chapter: Results, Subchapter: Voter demographics, Text: Alpha Research exit polling suggested the following demographic
+breakdown. The parties that got below 4% of the vote are included in
+""Others"".Voter demographics 
+Social group 	% GERB  	% PP
+ 	% DPS  	% Revival
+ 	%
+BSP  	% DB  	% BV  	% ITN  	% Others 	% Lead
+							
+Exit poll result 	*25* 	20 	14 	10 	10 	8 	4 	4 	5 	*5*
+Final result 	*25.3* 	20.2 	13.8 	10.1 	9.3 	7.5 	4.6 	3.8 	5.4 	*5.1*
+Gender
+Men 	*24* 	18 	16 	12 	9 	7 	4 	4 	6 	*6*
+Women 	*28* 	23 	10 	7 	11 	9 	3 	3 	6 	*5*
+Age
+18–30 	18 	*28* 	15 	10 	5 	10 	2 	6 	6 	*10*
+30-60 	*28* 	19 	13 	11 	7 	9 	4 	4 	5 	*9*
+60+ 	*27* 	16 	10 	7 	26 	5 	4 	2 	3 	*1*
+Highest Level of Education
+Lower education 	16 	7 	*50* 	6 	9 	1 	2 	2 	7 	*34*
+Secondary education 	*30* 	17 	14 	10 	13 	5 	4 	3 	4 	*13*
+Higher education 	24 	*27* 	3 	10 	9 	13 	3 	3 	6 	*3*
+Ethnic Group
+Bulgarian 	*27* 	25 	1 	11 	12 	10 	5 	4 	5 	*2*
+Turkish 	10 	5 	*77* 	2 	0 	1 	1 	0 	5 	*67*
+Roma 	20 	8 	*41* 	9 	6 	4 	1 	5 	7 	*21*
+Location
+Towns and villages 	23 	12 	*38* 	5 	13 	1 	3 	2 	3 	*15*
+Smaller cities 	*28* 	21 	8 	12 	14 	6 	3 	4 	4 	*7*
+Larger cities 	*28* 	26 	4 	11 	10 	8 	5 	4 	4 	*2*
+Sofia 	24 	*28* 	1 	9 	8 	17 	4 	3 	6 	*4*",Which age group showed the strongest support for the PP party?,The age group of 18-30 showed the strongest support for the PP party with 28%.,factual
+16,2023 Slovak parliamentary election,"Article:   2023 Slovak parliamentary election, Chapter: Results, Subchapter: Results by region, Text: Region  	Smer–SD
+ 	PS
+ 	Hlas–SD  	OĽaNO
+and Friends  	KDH
+ 	SaS
+ 	SNS  	Republic  	Alliance  	Democrats
+ 	We Are
+Family  	
+People's Party
+Our Slovakia  	KSS  	Other parties
+												
+Bratislava Region  	
+18.54 	*31.00* 	10.36 	6.17 	4.90 	12.50 	4.31 	3.14 	0.91 	4.43 	1.78 	
+0.57 	0.20 	1.08
+Trnava Region  	*22.01* 	
+17.07 	12.11 	9.40 	4.56 	5.36 	4.43 	4.38 	12.69 	2.92 	2.19 	0.81 	
+0.40 	1.56
+Trenčín Region 
+	*29.47* 	16.63 	16.40 	5.93 	5.44 	5.63 	7.28 	5.45 	0.03 	2.84 	2.22 	
+1.06 	0.46 	1.03
+Nitra Region  	*25.31* 	
+14.42 	14.40 	7.47 	4.06 	4.80 	4.51 	4.46 	13.91 	2.19 	2.01 	0.80 	
+0.26 	1.24
+Žilina Region  	
+*25.79* 	15.51 	16.04 	6.90 	9.38 	5.56 	8.11 	5.61 	0.02 	2.80 	2.02 	
+0.96 	0.34 	0.89
+Banská Bystrica Region  	*22.89* 	14.96 	19.76 	7.41 	4.29 	5.14 	
+6.53 	5.18 	5.17 	2.40 	2.73 	1.33 	0.43 	1.67
+Prešov Region  	
+*22.04* 	10.83 	16.16 	14.78 	14.07 	4.10 	5.73 	5.22 	0.07 	2.65 	2.36
+	0.63 	0.31 	0.98
+Košice Region  	
+*21.10* 	14.68 	15.08 	13.46 	6.80 	5.74 	4.38 	4.97 	5.44 	2.98 	2.75 	
+0.76 	0.33 	1.41
+Foreign 	6.10 	*61.70* 	2.46 	3.81 	3.31 	10.80 	3.79 	3.20 	0.47 	2.50
+	0.55 	0.38 	0.04 	0.76
+Total 	*22.94* 	17.96 	14.70 	8.89 	6.82 	6.32 	5.62 	4.75 	4.38 	2.93 	
+2.21 	0.84 	0.33 	1.16",What was the percentage of votes for the party 'We Are Family' in the Trenčín Region?,The party 'We Are Family' received 2.84% of the votes in the Trenčín Region.,factual
+17,2024 United States presidential election,"Article:   2024 United States presidential election, Chapter: , Subchapter: , Text: Contributors to Wikimedia projects
+90–114 minut
+------------------------------------------------------------------------
+2024 United States presidential election
+------------------------------------------------------------------------
+← 2020  	*November 5, 2024* 	/2028/ →------------------------------------------------------------------------
+538 members of the Electoral College 
+270 electoral votes needed to win
+Opinion polls ------------------------------------------------------------------------
+2024 electoral map, based on 2020 census ------------------------------------------------------------------------
+*Incumbent President*Joe Biden 
+Democratic 	The *2024 United States presidential election* will be the 60th
+quadrennial presidential election , scheduled for Tuesday, November 5,
+2024.  Voters will elect a president  and vice president
+ for
+a term of four years. Incumbent President Joe Biden , a member of the Democratic Party
+, is
+running for re-election.  His predecessor Donald Trump
+, a member of the Republican
+Party ,
+is running for re-election to a second, nonconsecutive term.
+ If Trump wins, he would become the second president to
+achieve nonconsecutive terms, after Grover Cleveland . If both Biden and Trump are
+nominated by their respective parties, it would mark the first
+presidential rematch since 1956 . A number of primary electionchallengers have also declared their candidacies for the nomination of
+both major parties. The winner of this election is scheduled to be
+inaugurated  on January 20, 2025. It
+will occur at the same time as elections to the U.S. Senate  and the U.S.
+House ; several states
+ will also be holding
+gubernatorial  and state legislative
+elections.",How many members are there in the Electoral College for the 2024 United States presidential election?,There are 538 members in the Electoral College for the 2024 United States presidential election.,factual
+18,2022 Maltese general election,"Article:   2022 Maltese general election, Chapter: , Subchapter: , Text: Journalists noted that the campaign was overshadowed by the Russian
+invasion of Ukraine  and that it was the ""quietest in
+decades"". Six political parties nominated their candidates for the 2022
+general election. The Labour Party and its leader campaigned on
+investing in green urbanism  and environmental issues , while the Nationalist Party pledged a one billion
+investment in ten new economic sectors. The AD+PD  campaigned on proposals for LGBT rights
+, while the People's
+Party 
+campaigned on increasing the minimum wage  and abolishing green passes . Additionally, ABBA
+ supported the
+investigation into abortion-rights  activists, while Volt Malta  supported the legalisation of abortion
+. Opinion polls
+ in the run-up to
+the election indicated another victory for Labour Party.The Labour Party retained its majority in parliament, winning a third
+consecutive election for the first time since 1981  with 55.11% of the
+popular vote, the largest share since 1955 , marginally surpassing the 55.04% it
+scored in 2017 . Voter turnout was 86%. As a result of a
+constitutional amendment, Article 52(A), passed before the elections,
+twelve seats were added to the House of Representatives and were given
+to women from both parties, so as to limit male dominance.
+ Abela formed his new cabinet  four days
+after the election.",What did the constitutional amendment accomplish in the Maltese parliament?,"The constitutional amendment, Article 52(A), added twelve seats to the House of Representatives that were given to women from both parties, to limit male dominance.",factual
+19,2023 Finnish parliamentary election,,Who is the Prime Minister of Finland?,The Prime Minister of Finland is Petteri Orpo.,factual
+20,2022 Austrian presidential election,,Who is the candidate for Beer Party?,"The candidate for the Beer Party is Dominik Wlazny, also known as Marco Pogo.",factual
+21,2023 Czech presidential election,,Was Basta part of the SPD party?,"Yes, Basta was part of the SPD party. He was nominated as the candidate for the 2023 Czech presidential election by the SPD party",factual
+22,2023 Serbian parliamentary election,,What party did Basta established?,Basta established the European Way Movement (PEP) after his dismissal from JS.,factual
+23,2022 French presidential election,,Which article of French constitution determines length of presidency?,"Article 7 of the Constitution of France determines the length of the presidency, stating that the president is elected to a five-year term in a two-round election.",factual
+24,2022 French presidential election,,How many votes did Valérie Pécresse get in first round?,"Valérie Pécresse received 1,679,001 votes in the first round of the 2022 French presidential election.",factual
+25,2023 Turkish presidential election,,How many invalid votes were cast in the Turkish presidential election?,"In the first round of the 2023 Turkish presidential election, there were 1,037,104 invalid/blank votes, and in the second round, there were 684,288 invalid/blank votes.",factual
+26,2024 Taiwanese presidential election,"Article:   2024 Taiwanese presidential election, Chapter: Nominations, Subchapter: Disqualified candidates, Text: Nine of ten third-party or independent presidential tickets did not meet
+the signature petition requirements set by the Central Election
+Commission, and were disqualified from the election. Including Gou, only
+five presidential candidates and their running mates attempted to submit
+signatures. The rest are as follows:   * *Chen Mei-fei  [zh ]* and Wu Chao-sheng (巫超勝) 256,773
+    signatures submitted, 2 valid endorsements
+  * *Cheng Tzu-tsai * and
+    Huang Sheng-feng  [zh ] (Sovereign State
+    for Formosa and Pescadores Party  [zh ]) 608 signatures submitted, 478 valid endorsements
+  * *Lan Hsin-chi  [zh ]* and Chou Ke-chi (周克琦) 146
+    signatures submitted, 58 valid endorsements
+  * *Fu Yin* (符音) and Hsieh Tsu-hsuan (謝祖鉉) 113 signatures
+    submitted, 91 valid endorsements",Which presidential candidate and their running mate submitted the most signatures?,"Chen Mei-fei and Wu Chao-sheng submitted the most signatures, with a total of 256,773 signatures.",vague
+27,,,Which elections took place in 2023?,"I'm sorry, but I cannot find answer to this question in my data.",vague
+28,2022 Austrian presidential election,,Who were the candidates in Austrian election,"The candidates in the 2022 Austrian presidential election were Alexander Van der Bellen, Walter Rosenkranz, Heinrich Staudinger, Tassilo Wallentin, Dominik Wlazny (Marco Pogo), Michael Brunner, and Gerald Grosz.",vague
+29,,,Which article of constitution determines length of presidency?,"I'm sorry, but I cannot find answer to this question in my data.",vague
+30,2022 Turkmenistan presidential election,,Which world leaders congratulated after Turkmenistan presidential elections?,Xi Jinping and Vladimir Putin,factual
+31,2022 South Korean presidential election,,How many votes did Huh Kyung-young receive in Gyeonggi region?,63.207,factual
+32,2023 Egyptian presidential election,,"How did the reported voter turnout in the 2023 Egyptian presidential election compare to the previous election's turnout, and what controversies surrounded the election's legitimacy?","Voter turnout in the 2023 Egyptian presidential election was reported to be 66.8%, which is an increase from the previous election, with a 25.75 percentage point rise. Controversies surrounding the election's legitimacy included harassment and arrests of opposition figures' supporters, difficulties in submitting endorsements, and small-scale anti-Sisi protests. Also, allegations of hacking Ahmed Tantawi's phone and pressure leading to the withdrawal of opposition candidate were reported. [2023 Egyptian presidential election]",multi
+33,2023 Estonian parliamentary election,,"What was the change in seat distribution for the Reform Party and the Centre Party from the 2019 to the 2023 Estonian parliamentary elections, and with which parties did Kaja Kallas form a coalition government following the 2023 election?","In the 2023 Estonian parliamentary election, the Reform Party won 37 seats, which was an increase from the 2019 election. On the other hand, the Centre Party suffered a setback, winning only 16 seats, which was a loss of 10 seats from the previous election. Following the 2023 election, Kaja Kallas formed a coalition government with Estonia 200 and the Social Democratic Party. [2023 Estonian parliamentary election]",multi
